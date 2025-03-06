@@ -1,0 +1,2 @@
+E:/Flutter Learn/BPH/promis mobile/promis/android/app/.cxx/Debug/453e466i/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/Flutter Learn/BPH/promis mobile/promis/android/app/.cxx/Debug/453e466i/armeabi-v7a/CMakeFiles/rebuild_cache.dir
